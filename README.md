@@ -1,6 +1,8 @@
 ## Dashboard Preview
 
-![Netflix Tableau Dashboard](tableau_dashboard.png)
+![Netflix Tableau Dashboard](## Dashboard Preview
+
+![Netflix Tableau Dashboard](Screenshot%20tableau.png))
 
 
 Netflix Tableau Dashboard
@@ -64,6 +66,6 @@ Key Insights
 
 Files Included
 
-* Tableau Workbook (.twbx)
+
 * Netflix Dataset (.csv)
 * Dashboard Screenshot
